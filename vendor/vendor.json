@@ -55,7 +55,7 @@
 		},
 		{
 			"checksumSHA1": "xRxFxv+xKesJcAR5XQ+amEWsvIY=",
-			"path": "github.com/segment-boneyard/sqlsource/driver",
+			"path": "github.com/segment-sources/sqlsource/driver",
 			"revision": "656c8f1119c577ff2faa21e4610e3b6d4c4bae10",
 			"revisionTime": "2017-09-06T00:05:47Z"
 		},
